@@ -12,7 +12,7 @@ Questions or suggestions?<br>Contact me here: [THL/#eureka-general-chat](https:/
   [Physeos](https://na.finalfantasyxiv.com/lodestone/playguide/db/search/?q=Physeos) >> ShB Relic > EW Relic > Synced > Non-Physeos Relic(*)
 
 ### Armor
-  [Vermillion Cloak](https://na.finalfantasyxiv.com/lodestone/playguide/db/search/?q=Vermilion+Cloak), [Kirin's Osode](https://na.finalfantasyxiv.com/lodestone/playguide/db/search/?q=Kirin%27s+Osode) > [Elemental +2](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/?patch=&db_search_category=item&category2=3&difficulty=blue&q=Elemental+%2B2) >> Synced > [Optical Hat](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/c330d0b4f23/)
+  [Vermillion Cloak](https://na.finalfantasyxiv.com/lodestone/playguide/db/search/?q=Vermilion+Cloak) / [Kirin's Osode](https://na.finalfantasyxiv.com/lodestone/playguide/db/search/?q=Kirin%27s+Osode) > [Elemental +2](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/?patch=&db_search_category=item&category2=3&difficulty=blue&q=Elemental+%2B2) >> Synced > [Optical Hat](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/c330d0b4f23/)
 
 ### Accessories
   Synced > [Imperial Jade](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/?patch=&db_search_category=item&category2=4&difficulty=white&q=Imperial+Jade) > [Cassie Earring](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/88febc019e0/), [Blitzring](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/72964542ed0/)(†)

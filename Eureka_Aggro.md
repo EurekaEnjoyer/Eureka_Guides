@@ -52,4 +52,4 @@ Examples: EL57 Lake Yabby (Hydatos), EL57 Eo'ghrah (Hydatos).
 
 Chain / Group aggro
 
-Sources: Own work, [Eureka Tracker](https://ffxiv-eureka.com/), [Eureka bestiary Complete edition](https://docs.google.com/spreadsheets/d/1Z3sDux_-UTf9LQ0DYuKvemXKP4DLK4K34Rtn72mAmpY/edit?usp=sharing), [Eureka Explorers](https://discord.gg/S8c4jbuASv)
+Sources: Own work, [Eureka Tracker](https://ffxiv-eureka.com/), [Eureka bestiary Complete edition](https://docs.google.com/spreadsheets/d/1Z3sDux_-UTf9LQ0DYuKvemXKP4DLK4K34Rtn72mAmpY/edit?usp=sharing), [Eurekan Explorers](https://discord.gg/S8c4jbuASv)

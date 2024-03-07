@@ -24,7 +24,7 @@ Questions or suggestions?<br>Contact me here: [THL/#eureka-general-chat](https:/
 
 ### iLvl-Sync and Materia Melding
 
-  Due to the iLvl-sync of 300 inside each Eureka zone, materia melds on gear *above* iLvl 300 provide no additional stats.  Synced accessories begins at iLvl 430 (or iLlvl 480, for NQ-crafted) because both substats will cap at those iLvls.
+  Due to the iLvl-sync of 300 inside each Eureka zone, materia melds on gear *above* iLvl 300 provide no additional stats.  Synced accessories begins at iLvl 430 (or iLlvl 480 for NQ-crafted) because all substats cap that those points.
 
 ### Eureka Effect: Elemental Bonus
 

@@ -1,5 +1,3 @@
-# Eureka_Gearing
-FFXIV Eureka gearing guide.
-Will document any major changes here.
+# Eureka_Guides
+This repo will contain some guides for FFXIV Eureka.
 
-07 March 2024 -- Upload of and minor edits to original.

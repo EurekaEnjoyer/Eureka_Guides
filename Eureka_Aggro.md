@@ -1,7 +1,7 @@
 
 ***WORK IN PROGRESS !!!***
 
-Author: Anna Molkot@Leviathan
+Author: Anna Molkot@Leviathan<br>
 With help from: H'biyr Rhen@Ultros 
 
 Eureka Mob Aggro

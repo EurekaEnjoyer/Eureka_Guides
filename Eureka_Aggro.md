@@ -57,6 +57,8 @@ This is a rare form of aggro similar to sound aggro, but walking and Hide/Stealt
 ### Examples: 
 EL57 Lake Yabby (Hydatos), EL57 Eo'ghrah (Hydatos).
 
-Chain / Group aggro
+## Chain / Group aggro
+
+(Under Construction lol)
 
 Sources: Own work, [Eureka Tracker](https://ffxiv-eureka.com/), [Eureka bestiary Complete edition](https://docs.google.com/spreadsheets/d/1Z3sDux_-UTf9LQ0DYuKvemXKP4DLK4K34Rtn72mAmpY/edit?usp=sharing), [Eurekan Explorers](https://discord.gg/S8c4jbuASv)

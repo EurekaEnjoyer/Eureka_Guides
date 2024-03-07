@@ -1,4 +1,3 @@
-#FF14 
 Li Zhang@Adamantoise
 
 # Elements and Mutations
@@ -10,37 +9,37 @@ Li Zhang@Adamantoise
 - Gargoyle; Lightning->Wind
 - Lion; Earth
 # Moist
-3Earth+4Wind
+3Earth+4Wind  
 Pull all wyverns, allow to mutate, kill
 
 
 # Obscure Farm
-5Wind+2Water
+5Wind+2Water   
 All claws+6 lions
 
 # Offensive
 ### Zebu Offensive
-4Fire+3Water
+4Fire+3Water  
 Pull all zebu && some wyvern if night, peiste if day
 
 ### Ceto Offensive
-5Wind+2Earth
+5Wind+2Earth 
 All delphne+4 Peiste by pit+ 8 gargoyle
 
 ### Peiste Offensive
-5Ice+2Earth
+5Ice+2Earth  
 All peiste->garg->All peiste->Garg
 
 
 # Multi-Farms
 ### Offensive Moist
-2Wind+2Fire+2Water+Earth
-All Zebu+Wyvern during night/snow
-Offensive with zebu+peiste during day
+2Wind+2Fire+2Water+Earth   
+All Zebu+Wyvern during night/snow    
+Offensive with zebu+peiste during day   
 
 ###  Moist Obscure
-Choose elements based on wyvern/claw side
-Pull all claws and wyverns to west of pit, kill
-Cata is based
+Choose elements based on wyvern/claw side  
+Pull all claws and wyverns to west of pit, kill   
+Cata is based  
 
 

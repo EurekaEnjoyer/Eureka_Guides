@@ -1,6 +1,8 @@
 
 ***WORK IN PROGRESS !!!***
 
+Author: Anna Molkot@Leviathan
+
 Eureka Mob Aggro
 
 As a callback to FFXI, Eureka's mobs, in the overworld and in Baldesion Arsenal (BA), have different kinds of aggro.  Mobs around and above your Elemental Level (EL) will aggro you.  ROG/NIN Ability Hide and Stealth L can be used to evade mobs up to 10 elemental levels above yours, but there are exceptions which we will point out.  Below are the types of aggro and some examples:

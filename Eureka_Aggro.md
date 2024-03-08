@@ -57,8 +57,8 @@ This is a rare form of aggro similar to sound aggro, but walking and Hide/Stealt
 ### Examples: 
 EL57 Lake Yabby (Hydatos), EL57 Eo'ghrah (Hydatos).
 
-## Chain aggro
+## Chain Aggro
 
-In The Baldesion Arsenal, aggroing a mob of a certain element can aggro nearby mobs of that same element.
+The Baldesion Arsenal hallway mobs are similar to dungeon trash in that pulling one mob can result in others being drawn.  If you pull a mob of a particular element, mobs of that same element in its immediate surroundings may also be pulled.
 
 Sources: Own work, [Eureka Tracker](https://ffxiv-eureka.com/), [Eureka bestiary Complete edition](https://docs.google.com/spreadsheets/d/1Z3sDux_-UTf9LQ0DYuKvemXKP4DLK4K34Rtn72mAmpY/edit?usp=sharing), [Eurekan Explorers](https://discord.gg/S8c4jbuASv)

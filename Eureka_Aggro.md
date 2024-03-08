@@ -52,7 +52,7 @@ EL39 Gawper (Pagos), EL40 Val Griffin (Pagos), EL53 Val Skatene (Pyros), EL54 Py
 
 ## True Sound (Proximity) Aggro
 
-This is a rare form of aggro similar to sound aggro, but walking and Hide/Stealth L will not work.  It will aggro you without fail if you are closeby.
+This is a rare form of aggro similar to sound aggro, but walking and Hide/Stealth L will not work.  It will aggro you without fail if you are closeby.  The examples below are the only known mobs with this type of aggro.
 
 ### Examples: 
 EL57 Lake Yabby (Hydatos), EL57 Eo'ghrah (Hydatos).

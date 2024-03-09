@@ -31,14 +31,14 @@ The sleeping dragons you may encounter in Pagos and Pyros can be safely evaded b
 
 ## Magic Aggro
 
-This is most commonly associated with sprites, as it is their main form of aggro.  Casting spells near this mob will draw aggro.
+This is most commonly associated with **sprites**, as it is their main form of aggro.  Casting spells near this mob will draw aggro.
 
 ### Examples: 
 All sprites, EL48 Pure White Flame (Eureka Pyros), EL66 Arsenal Sprite (BA).
 
 ## Blood Aggro
 
-This is most commonly associated with ashkin (undead / night-only mobs), as it is their main form of aggro.  If your HP is low (<50%), you may aggro it.
+This is most commonly associated with **ashkin** (undead / night-only mobs), as it is their main form of aggro.  If your HP is low (<50%), you may aggro it.
 
 ### Examples: 
 EL34 Haunt (Pagos), EL54 Soulless Pathfinder (Pyros), EL65 Samurai Corpse (Hydatos), EL66 Arsenal Logos (BA).

@@ -1,6 +1,6 @@
 # Eureka Gearing Made Easy
 
-Author: Anna Molkot@Leviathan<br>Last Updated: 07 March 2024
+Author: Anna Molkot@Leviathan<br>Last Updated: 11 March 2024
 
 Questions or suggestions?<br>Contact me here: [THL/#eureka-general-chat](https://discord.com/channels/578708223092326430/816800750147207199)
 
@@ -32,7 +32,7 @@ Questions or suggestions?<br>Contact me here: [THL/#eureka-general-chat](https:/
 
 ### Eureka Effect: Haste
 
-  Certain pieces of gear obtainable from Eureka feature a "Haste +3" bonus, which directly lowers (does not increase Skill, Spell Speed substats) both melee and magic GCDs.  Each point of Haste subtracts around 0.025s from GCD (will vary due to truncation).
+  Certain pieces of gear obtainable from Eureka feature a "Haste +3" bonus, which directly lowers (does not increase Skill, Spell Speed substats) both melee and magic GCDs.  Each point of Haste subtracts reduces GCD and other cast and recast times by about 1% per point of haste.  
 
 ### Cloak, Osode (iLvl 300)
 

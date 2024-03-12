@@ -31,14 +31,14 @@ The sleeping dragons you may encounter in Pagos and Pyros can be safely evaded b
 
 ## Magic Aggro
 
-This is most commonly associated with sprites, as it is their main form of aggro.  Casting spells near this mob will draw aggro.
+This is most commonly associated with **sprites**, as it is their main form of aggro.  Casting spells near this mob will draw aggro.
 
 ### Examples: 
 All sprites, EL48 Pure White Flame (Eureka Pyros), EL66 Arsenal Sprite (BA).
 
 ## Blood Aggro
 
-This is most commonly associated with ashkin (undead / night-only mobs), as it is their main form of aggro.  If your HP is low (<50%), you may aggro it.
+This is most commonly associated with **ashkin** (undead / night-only mobs), as it is their main form of aggro.  If your HP is low (<50%), you may aggro it.
 
 ### Examples: 
 EL34 Haunt (Pagos), EL54 Soulless Pathfinder (Pyros), EL65 Samurai Corpse (Hydatos), EL66 Arsenal Logos (BA).
@@ -52,13 +52,13 @@ EL39 Gawper (Pagos), EL40 Val Griffin (Pagos), EL53 Val Skatene (Pyros), EL54 Py
 
 ## True Sound (Proximity) Aggro
 
-This is a rare form of aggro similar to sound aggro, but walking and Hide/Stealth L will not work.  It will aggro you without fail if you are closeby.
+This is a rare form of aggro similar to sound aggro, but walking and Hide/Stealth L will not work.  It will aggro you without fail if you are closeby.  The examples below are the only known mobs with this type of aggro.
 
 ### Examples: 
 EL57 Lake Yabby (Hydatos), EL57 Eo'ghrah (Hydatos).
 
-## Chain / Group aggro
+## Chain Aggro
 
-(Under Construction lol)
+The Baldesion Arsenal hallway mobs are similar to dungeon trash in that pulling one mob can result in others being drawn.  If you pull a mob of a particular element, mobs of that same element in its immediate surroundings may also be pulled.
 
-Sources: Own work, [Eureka Tracker](https://ffxiv-eureka.com/), [Eureka bestiary Complete edition](https://docs.google.com/spreadsheets/d/1Z3sDux_-UTf9LQ0DYuKvemXKP4DLK4K34Rtn72mAmpY/edit?usp=sharing), [Eurekan Explorers](https://discord.gg/S8c4jbuASv)
+<sub>Sources: Own work, [Eureka Tracker](https://ffxiv-eureka.com/), [Eureka bestiary Complete edition](https://docs.google.com/spreadsheets/d/1Z3sDux_-UTf9LQ0DYuKvemXKP4DLK4K34Rtn72mAmpY/edit?usp=sharing), [Eurekan Explorers](https://discord.gg/S8c4jbuASv)</sub>

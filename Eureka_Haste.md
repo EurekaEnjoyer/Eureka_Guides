@@ -19,7 +19,7 @@ Exact calculation of GCDs with haste gear is simple.  In order to calculate this
 provided by Allagan Studies.  
 Accounting for haste and plugging in specific level-70 modifiers gives us
 
-$$t\left(t_0, n, s\right) = \frac{1}{100} \left \lfloor t_0 \left(1 - 0.01 n\right) \left(100 + \frac{1}{10} \left \lceil  \frac{13}{90} \left (  364 - s \right ) \right \rceil \right)\right\rfloor$$ where <br>
+$$t\left(t_0, n, s\right) = \frac{1}{100} \left \lfloor t_0 \left(1 - 0.01 n\right) \left(100 + \frac{1}{10} \left \lceil  \frac{130}{900} \left (  364 - s \right ) \right \rceil \right)\right\rfloor$$ where <br>
 $t = t\left(t_0, n, s\right)$ 		is the reduced action (re)cast time, in seconds;<br>
 $t_0$ 						is the action (re)cast time, absent any speed or haste gear (think 2.5 for GCD), in seconds;<br>
 $n$ 						is the number of points of haste;<br>

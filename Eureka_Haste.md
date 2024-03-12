@@ -13,7 +13,7 @@ Haste is a bonus found on certain pieces of gear orignating from Eureka.
 Each point of haste directly reduces (as in, does not increase skill/speed speed) GCD as well as other cast and recast times by about 1%. 
 Each piece of haste gear gives Haste +3 bonus, so each piece reduces these times by about 3%.
 
-## Calculating GCDs and (Re)cast Timers
+## Calculating GCDs
 
 Exact calculation of GCDs with haste gear is simple.  In order to calculate this reduction, we will need to use a slightly edited version of the [Weaponskill and Spell Cast and Global Cooldown Reduction formula](https://www.akhmorning.com/allagan-studies/stats/speed/#formulae)
 provided by Allagan Studies.  

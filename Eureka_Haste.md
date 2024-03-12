@@ -29,6 +29,6 @@ $\left \lceil A \right \rceil$ is the ceiling function applied onto $A$.
 
 ### Example:
 
-Suppose I have 3 points of haste and a skill speed of 603, and I wish to determine my current GCD.  We use the above formula and the information we're given to solve below:<br>
+Suppose I have 3 points of haste and a skill speed of 603, and I wish to determine my current GCD.  We use the above formula and the information given to solve below:<br>
 
 $\text{GCD} = t\left(2.5, 3, 603\right) = 2.34$

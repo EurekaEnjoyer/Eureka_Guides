@@ -1,3 +1,3 @@
 # Eureka_Guides
-This repo will contain some guides for FFXIV Eureka.
+Each markdown (.md) file is a guide on a specific topic.
 

@@ -19,7 +19,7 @@ Contact me here: [THL/#eureka-general-chat](https://discord.com/channels/5787082
 ### Accessories
   Synced > [Imperial Jade](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/?patch=&db_search_category=item&category2=4&difficulty=white&q=Imperial+Jade) > [Cassie Earring](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/88febc019e0/), [Blitzring](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/72964542ed0/)(†)
 
-<sub>(*) It is possible to get better substats on this than synced, EW relic weapons by rolling Pyros light crystals.</sub><br>
+<sub>(*) It is possible to get better substats on a Pyros weapon than synced, EW relic weapons by rolling Pyros light crystals.</sub><br>
 <sub>(†) Jobs like Black Mage and Summoner may benefit from using these in speed-focused builds.</sub>
  
 ## Additional Information

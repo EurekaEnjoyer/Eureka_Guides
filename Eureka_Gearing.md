@@ -8,6 +8,7 @@ Contact me here: [THL/#eureka-general-chat](https://discord.com/channels/5787082
 
 ## Recommended Gear
 
+Best-in-Slot (BiS) is kind of a meme but I hope this helps.<br>
 "Synced" is any item level (iLvl) 480+ (430+ *excluding* normal quality, crafted) gear.  
 
 ### Weapon
@@ -26,11 +27,11 @@ Contact me here: [THL/#eureka-general-chat](https://discord.com/channels/5787082
 
 ### iLvl-Sync and Materia Melding
 
-  Due to the iLvl Sync of 300 inside each Eureka zone, materia melds on gear *above* iLvl 300 provide no additional stats.  Synced accessories begins at iLvl 430 (or iLlvl 480 for NQ-crafted) because all substats cap that those points.
+  Due to the iLvl Sync of 300 inside each Eureka zone, materia melds on gear *above* iLvl 300 provide no additional stats.  The reason we recommend iLvl 430 and above (480 and above if NQ crafted) for synced gear is that at those levels, both substats on a piece of gear will be capped inside Eureka.
 
 ### Eureka Effect: Elemental Bonus
 
-  Physeos, Cloak/Osode, Elemental +2 ("+2") are the most important parts of Best-in-Slot since they provide Elemental Bonus, which makes them considerably stronger than any other pieces of gear inside Eureka.
+  Physeos, Cloak/Osode, Elemental +2 ("+2") are the most important parts of BiS since they provide Elemental Bonus, which makes them considerably stronger than any other pieces of gear inside Eureka.
 
 ### Eureka Effect: Haste
 

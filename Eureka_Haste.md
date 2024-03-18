@@ -1,7 +1,7 @@
 # Haste
 
 Author: Anna Molkot@Leviathan<br>
-Last Updated: 11 March 2024
+Last Updated: 18 March 2024
 
 Questions or suggestions?<br>
 Contact me here: [THL/#eureka-general-chat](https://discord.com/channels/578708223092326430/816800750147207199)
@@ -9,9 +9,8 @@ Contact me here: [THL/#eureka-general-chat](https://discord.com/channels/5787082
 
 ## Description
 
-Haste is a bonus found on certain pieces of gear orignating from Eureka.  
-Each point of haste _directly_ reduces GCD and other cast and recast times by about 1%. It affects neither skill speed nor spell speed.
-Each piece of haste gear gives Haste +3 bonus, so each piece reduces these times by about 3%.  For those considering whether or not to use haste gear: consider reading [this guide](https://github.com/EurekaEnjoyer/Eureka_Guides/blob/main/Eureka_Gearing.md) and using the formula below before making a decision.
+Haste is a bonus found on certain pieces of gear orignating from Eureka.  Each piece of Eureka haste gear provides a "Haste +3" bonus, each point _directly_ reducing GCD and other cast and recast times by about 1%, each piece therefore reducing times by about 3%. It affects neither Skill Speed nor Spell Speed.
+For those considering whether or not to use haste gear: consider reading [this guide](https://github.com/EurekaEnjoyer/Eureka_Guides/blob/main/Eureka_Gearing.md) and using the formula below before making a decision.
 ## Calculating GCDs
 
 Exact calculation of GCDs with haste gear is simple.  In order to calculate this reduction, we will need to use a slightly edited version of the [Weaponskill and Spell Cast and Global Cooldown Reduction formula](https://www.akhmorning.com/allagan-studies/stats/speed/#formulae)

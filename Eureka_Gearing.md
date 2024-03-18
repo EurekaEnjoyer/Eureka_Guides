@@ -1,12 +1,14 @@
 # Eureka Gearing Made Easy
 
-Author: Anna Molkot@Leviathan<br>Last Updated: 11 March 2024
+Author: Anna Molkot@Leviathan<br>
+Last Updated: 11 March 2024
 
-Questions or suggestions?<br>Contact me here: [THL/#eureka-general-chat](https://discord.com/channels/578708223092326430/816800750147207199)
+Questions or suggestions?<br>
+Contact me here: [THL/#eureka-general-chat](https://discord.com/channels/578708223092326430/816800750147207199)
 
 ## Recommended Gear
 
-"Synced" is any iLvl 480+ (iLvl 430+ *excluding* NQ-Crafted) gear.  
+"Synced" is any item level (iLvl) 480+ (430+ *excluding* normal quality, crafted) gear.  
 
 ### Weapon
   [Physeos](https://na.finalfantasyxiv.com/lodestone/playguide/db/search/?q=Physeos) >> ShB Relic > EW Relic > Synced > Non-Physeos Relic(*)
@@ -24,7 +26,7 @@ Questions or suggestions?<br>Contact me here: [THL/#eureka-general-chat](https:/
 
 ### iLvl-Sync and Materia Melding
 
-  Due to the iLvl-sync of 300 inside each Eureka zone, materia melds on gear *above* iLvl 300 provide no additional stats.  Synced accessories begins at iLvl 430 (or iLlvl 480 for NQ-crafted) because all substats cap that those points.
+  Due to the iLvl Sync of 300 inside each Eureka zone, materia melds on gear *above* iLvl 300 provide no additional stats.  Synced accessories begins at iLvl 430 (or iLlvl 480 for NQ-crafted) because all substats cap that those points.
 
 ### Eureka Effect: Elemental Bonus
 
@@ -44,4 +46,4 @@ Questions or suggestions?<br>Contact me here: [THL/#eureka-general-chat](https:/
 
 ### Imperial Jade (iLvl 290) Accessories
 
-  It is not uncommon to see players using HQ, pentamelded, Imperial Jade accessories inside Eureka.  Replacing synced accessories with these, which effectively trades main stats for more substats, resulting usually in a damage loss and always in a HP loss.  There may be specific cases where using jade is a damage gain, but any gain will be miniscule.
+  It is not uncommon to see players using high quality, pentamelded, Imperial Jade accessories inside Eureka.  Replacing synced accessories with these, which effectively trades main stats for more substats, resulting usually in a damage loss and always in a HP loss.  There may be specific cases where using jade is a damage gain, but any gain will be miniscule.

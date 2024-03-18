@@ -1,7 +1,7 @@
 # Eureka Gearing Made Easy
 
 Author: Anna Molkot@Leviathan<br>
-Last Updated: 11 March 2024
+Last Updated: 18 March 2024
 
 Questions or suggestions?<br>
 Contact me here: [THL/#eureka-general-chat](https://discord.com/channels/578708223092326430/816800750147207199)
@@ -11,7 +11,7 @@ Contact me here: [THL/#eureka-general-chat](https://discord.com/channels/5787082
 "Synced" is any item level (iLvl) 480+ (430+ *excluding* normal quality, crafted) gear.  
 
 ### Weapon
-  [Physeos](https://na.finalfantasyxiv.com/lodestone/playguide/db/search/?q=Physeos) >> ShB Relic > EW Relic > Synced > Non-Physeos Relic(*)
+  [Physeos](https://na.finalfantasyxiv.com/lodestone/playguide/db/search/?q=Physeos) >> A. Law's Order / Blade's > Majestic Manderville / Mandervillous > Synced > Non-Physeos Relic(*)
 
 ### Armor
   [Vermillion Cloak](https://na.finalfantasyxiv.com/lodestone/playguide/db/search/?q=Vermilion+Cloak) / [Kirin's Osode](https://na.finalfantasyxiv.com/lodestone/playguide/db/search/?q=Kirin%27s+Osode) > [Elemental +2](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/?patch=&db_search_category=item&category2=3&difficulty=blue&q=Elemental+%2B2) >> Synced > [Optical Hat](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/c330d0b4f23/)

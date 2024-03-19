@@ -1,7 +1,7 @@
 # Eureka Gearing Made Easy
 
 Author: Anna Molkot@Leviathan<br>
-Last Updated: 18 March 2024
+Last Updated: 19 March 2024
 
 Questions or suggestions?<br>
 Contact me here: [THL/#eureka-general-chat](https://discord.com/channels/578708223092326430/816800750147207199)
@@ -12,7 +12,7 @@ Best-in-Slot (BiS) is kind of a meme but I hope this helps.<br>
 "Synced" is any item level (iLvl) 480+ (430+ *excluding* normal quality, crafted) gear.  
 
 ### Weapon
-  [Physeos](https://na.finalfantasyxiv.com/lodestone/playguide/db/search/?q=Physeos) >> A. Law's Order / Blade's > Majestic Manderville / Mandervillous > Synced > Non-Physeos Relic(*)
+  [Physeos](https://na.finalfantasyxiv.com/lodestone/playguide/db/search/?q=Physeos) >> [A. Law's Order](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/?patch=&db_search_category=item&min_item_lv=515&max_item_lv=515&q=Augmented+Law%27s+Order) / [Blade's](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/?patch=&db_search_category=item&min_item_lv=535&max_item_lv=535&q=Blade%27s) > [Majestic Manderville](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/?patch=&db_search_category=item&min_item_lv=645&max_item_lv=645&q=Majestic+Manderville) / Mandervillous > Synced > Non-Physeos Relic(*)
 
 ### Armor
   [Vermillion Cloak](https://na.finalfantasyxiv.com/lodestone/playguide/db/search/?q=Vermilion+Cloak) / [Kirin's Osode](https://na.finalfantasyxiv.com/lodestone/playguide/db/search/?q=Kirin%27s+Osode) > [Elemental +2](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/?patch=&db_search_category=item&category2=3&difficulty=blue&q=Elemental+%2B2) >> Synced > [Optical Hat](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/c330d0b4f23/)
@@ -35,7 +35,7 @@ Best-in-Slot (BiS) is kind of a meme but I hope this helps.<br>
 
 ### Eureka Effect: Haste
 
-  Certain pieces of gear obtainable from Eureka feature a "Haste +3" bonus, which directly lowers (does not increase Skill, Spell Speed substats) both melee and magic GCDs.  Each point of Haste reduces GCD and other cast and recast times by about 1%.  A complete description of haste can be found [here](https://github.com/EurekaEnjoyer/Eureka_Guides/blob/main/Eureka_Haste.md).
+  Certain pieces of gear obtainable in Eureka feature a "Haste +3" bonus, which directly lowers (does not increase Skill, Spell Speed substats) both melee and magic GCDs.  Each point of Haste reduces GCD and other cast and recast times by about 1%.  A complete description of haste can be found [here](https://github.com/EurekaEnjoyer/Eureka_Guides/blob/main/Eureka_Haste.md).
 
 ### Cloak, Osode (iLvl 300)
 

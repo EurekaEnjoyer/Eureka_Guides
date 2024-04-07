@@ -1,7 +1,7 @@
 # Haste
 
 Author: Anna Molkot@Leviathan<br>
-Last Updated: 18 March 2024
+Last Updated: 6 April 2024
 
 Questions or suggestions?<br>
 Contact me here: [THL/#eureka-general-chat](https://discord.com/channels/578708223092326430/816800750147207199)
@@ -17,16 +17,18 @@ Exact calculation of GCDs with haste gear is simple.  In order to calculate this
 provided by Allagan Studies.  
 Accounting for haste and plugging in specific level-70 modifiers gives us
 
-$$t\left(t_0, n, s\right) = \frac{1}{100} \left \lfloor t_0 \left(1 - 0.01 n\right) \left(100 + \frac{1}{10} \left \lceil  \frac{130}{900} \left (  364 - s \right ) \right \rceil \right)\right\rfloor$$ where <br>
-$t = t\left(t_0, n, s\right)$ 		is the reduced action (re)cast time, in seconds;<br>
-$t_0$ 						is the action (re)cast time, absent any speed or haste gear (think 2.5 for GCD), in seconds;<br>
-$n$ 						is the number of points of haste;<br>
-$s$ 						is skill/spell speed substat amount;<br>
-$\left \lfloor A \right \rfloor$ is the floor function applied onto $A$; and<br>
-$\left \lceil A \right \rceil$ is the ceiling function applied onto $A$.
+$$T\left(T_0, n, s\right) = \frac{1}{100} \left \lfloor T_0 \left(100 - N\right) \left(1 - \frac{1}{1000} \left \lfloor  \frac{130}{900} \left (  S - 364 \right ) \right \rfloor \right)\right\rfloor$$ 
+
+where <br>
+
+$T = t\left(t_0, n, s\right)$ 		is the reduced action (re)cast time, in seconds;<br>
+$T_0$ 						                is the action (re)cast time in seconds, absent any speed or haste gear (for example, 2.5s for GCD);<br>
+$N$ 						                  is the number of points of haste;<br>
+$S \geq 364$ 						          is the skill/spell speed substat amount; and <br>
+$\left \lfloor A \right \rfloor$  is the [floor function](https://mathworld.wolfram.com/FloorFunction.html) applied onto $A$.
 
 ### Example:
 
 Suppose I have 3 points of haste and a skill speed of 603, and I wish to determine my current GCD.  We use the above formula and the information given to solve below:<br>
 
-$\text{GCD} = t\left(2.5, 3, 603\right) = 2.34$
+$\text{GCD} = T\left(2.5 \text{ s}, 3, 603\right) = 2.34 \text{ s}$

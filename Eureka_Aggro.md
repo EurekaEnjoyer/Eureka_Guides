@@ -1,4 +1,4 @@
-# Eureka Mob Aggro (***WORK IN PROGRESS !!!***)
+# Eureka Mob Aggro: An Overview
 Author: Anna Molkot@Leviathan<br>
 With help from: H'biyr Rhen@Ultros 
 
@@ -8,15 +8,15 @@ Contact me here:
 
 ## Introduction
 
-As a callback to FFXI, Eureka's mobs, in the overworld and in Baldesion Arsenal (BA), have different kinds of aggro.  Mobs around and above your Elemental Level (EL) will aggro you.  ROG/NIN Ability Hide and Stealth L can be used to evade mobs up to 10 elemental levels above yours, but there are exceptions which we will point out.  Below are the types of aggro and some examples:
+As a callback to FFXI, Eureka's mobs, in the overworld and in Baldesion Arsenal (BA), have different kinds of aggro.  Mobs around and above your Elemental Level (EL) will aggro you.  The ROG/NIN Ability Hide as well as Stealth L can be used to evade mobs up to 10 elemental levels above yours, but there are exceptions which we will point out.  Below are the types of aggro and some examples:
 
 ## Touch Aggro
 
-Running directly through a mob can cause it to aggro you.
+Running directly through a mob can cause it to aggro you. This is trvivial because just about every mob has this kind of aggro.
 
 ## Sight Aggro
 
-This is the most common form of aggro.  You will draw aggro if you walk within its "field of vision": an invisible cone extending out from the front of the mob. This however does not extend out infinitely; it terminates at a distance so if you are far away you will not aggro it.
+This is the most common non-trivial form of aggro.  You will draw aggro if you walk within its "field of vision": an invisible cone extending out from the front of the mob. This however does not extend out infinitely; it terminates at a distance so if you are far away you will not aggro it.
 
 ## Sound Aggro
 
@@ -61,4 +61,4 @@ EL57 Lake Yabby (Hydatos), EL57 Eo'ghrah (Hydatos).
 
 The Baldesion Arsenal hallway mobs are similar to dungeon trash in that pulling one mob can result in others being drawn.  If you pull a mob of a particular element, mobs of that same element in its immediate surroundings may also be pulled.
 
-<sub>Sources: Own work, [Eureka Tracker](https://ffxiv-eureka.com/), [Eureka bestiary Complete edition](https://docs.google.com/spreadsheets/d/1Z3sDux_-UTf9LQ0DYuKvemXKP4DLK4K34Rtn72mAmpY/edit?usp=sharing), [Eurekan Explorers](https://discord.gg/S8c4jbuASv)</sub>
+<sub>Sources: Own work, [Eureka Tracker (https://ffxiv-eureka.com/)](https://ffxiv-eureka.com/), [Eureka bestiary Complete edition](https://docs.google.com/spreadsheets/d/1Z3sDux_-UTf9LQ0DYuKvemXKP4DLK4K34Rtn72mAmpY/edit?usp=sharing), [Eurekan Explorers](https://discord.gg/S8c4jbuASv)</sub>

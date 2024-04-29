@@ -20,7 +20,7 @@ This is the most common non-trivial form of aggro.  You will draw aggro if you w
 
 ## Sound Aggro
 
-You will draw aggro if you *run* anywhere near this mob, even if you're behind it.  Mobs with this kind of aggro can be easily evaded by toggling movement speed to walk (by default NUMPAD /).
+You will draw aggro if you *run* anywhere near this mob, even if you're behind it.  Mobs with this kind of aggro can be easily evaded by toggling movement speed to walk (by default `NUMPAD /`).
 
 ### Examples: 
 EL21 Magia Fan (Anemos), EL40 Ameretat (Pagos), EL49 Pyros Hawk, EL65 Arsenal Tome (BA).

@@ -31,7 +31,7 @@ The sleeping dragons you may encounter in Pagos and Pyros can be safely evaded b
 
 ## Magic Aggro
 
-This is most commonly associated with **sprites**, as it is their main form of aggro.  Casting spells near this mob will draw aggro.
+This is most commonly associated with **sprites**, as it is their main form of aggro.  Casting spells (using logos actions count!) near this mob will draw aggro.
 
 ### Examples: 
 All sprites, EL48 Pure White Flame (Eureka Pyros), EL66 Arsenal Sprite (BA).

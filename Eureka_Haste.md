@@ -17,12 +17,12 @@ Exact calculation of GCDs with haste gear is simple.  In order to calculate this
 provided by Allagan Studies.  
 Accounting for haste and plugging in specific level-70 modifiers gives us
 
-$$\LARGE t\left(t_0, n, s\right) = \frac{1}{100} \left \lfloor \left(1000 \\ t_{0}\right)  \left \lfloor\frac{\left(100 - N\right) \left(100 - B\right)}{100} \right\rfloor \frac{  \left(1000 - \left \lfloor  \frac{130}{900} \left (  S - 364 \right ) \right \rfloor \right)}{1000000} \right\rfloor$$ 
+$$\LARGE T\left(T_0, N, S, B\right) = \frac{1}{100} \left \lfloor \left(1000 \\ T_{0}\right)  \left \lfloor\frac{\left(100 - N\right) \left(100 - B\right)}{100} \right\rfloor \frac{  \left(1000 - \left \lfloor  \frac{130}{900} \left (  S - 364 \right ) \right \rfloor \right)}{1000000} \right\rfloor$$ 
 
 where <br>
 
-$\large t = t\left(t_0, n, s\right)$ 		is the reduced action (re)cast time, in seconds;<br>
-$\large t_{0}$            	            is the action (re)cast time in seconds, absent any speed or haste gear (for example, 2.5s for GCD);<br>
+$\large T = T\left(T_0, N, S, B\right)$ 		is the reduced action (re)cast time, in seconds;<br>
+$\large T_{0}$            	            is the action (re)cast time in seconds, absent any speed or haste gear (for example, 2.5s for GCD);<br>
 $\large N$ 						                  is the number of points of haste;<br>
 $\large B$                              is the percentage haste buff given by certain jobs e.g., SAM and BLM;<br>
 $\large S \geq 364$ 						        is the skill/spell speed substat amount; and <br>

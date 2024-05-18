@@ -17,15 +17,15 @@ Exact calculation of GCDs with haste gear is simple.  In order to calculate this
 provided by Allagan Studies.  
 Accounting for haste and plugging in specific level-70 modifiers gives us
 
-$$T\left(T_0, n, s\right) = \frac{1}{100} \left \lfloor T_0 \left(100 - N\right) \left(1 - \frac{1}{1000} \left \lfloor  \frac{130}{900} \left (  S - 364 \right ) \right \rfloor \right)\right\rfloor$$ 
+$$\LARGE T\left(T_0, n, s\right) = \frac{1}{100} \left \lfloor \frac{T_0 \left(100 - N\right) \left(100 - B\right) \left(1000 - \left \lfloor  \frac{130}{900} \left (  S - 364 \right ) \right \rfloor \right)}{1000000} \right\rfloor$$ 
 
 where <br>
 
-$T = t\left(t_0, n, s\right)$ 		is the reduced action (re)cast time, in seconds;<br>
-$T_0$ 						                is the action (re)cast time in seconds, absent any speed or haste gear (for example, 2.5s for GCD);<br>
-$N$ 						                  is the number of points of haste;<br>
-$S \geq 364$ 						          is the skill/spell speed substat amount; and <br>
-$\left \lfloor A \right \rfloor$  is the [floor function](https://mathworld.wolfram.com/FloorFunction.html) applied onto $A$.
+$\large T = t\left(t_0, n, s\right)$ 		is the reduced action (re)cast time, in seconds;<br>
+$\large T_{0}$            	            is the action (re)cast time in seconds, absent any speed or haste gear (for example, 2.5s for GCD);<br>
+$\large N$ 						                  is the number of points of haste;<br>
+$\large S \geq 364$ 						        is the skill/spell speed substat amount; and <br>
+$\large \left \lfloor A \right \rfloor$ is the [floor function](https://mathworld.wolfram.com/FloorFunction.html) applied onto $A$.
 
 ### Example:
 

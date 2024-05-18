@@ -1,7 +1,7 @@
 # Haste
 
 Author: Anna Molkot@Leviathan<br>
-Last Updated: 6 April 2024
+Last Updated: 17 May 2024
 
 Questions or suggestions?<br>
 Contact me here: [THL/#eureka-general-chat](https://discord.com/channels/578708223092326430/816800750147207199)
@@ -24,6 +24,7 @@ where <br>
 $\large T = t\left(t_0, n, s\right)$ 		is the reduced action (re)cast time, in seconds;<br>
 $\large T_{0}$            	            is the action (re)cast time in seconds, absent any speed or haste gear (for example, 2.5s for GCD);<br>
 $\large N$ 						                  is the number of points of haste;<br>
+$\large B$                              is the percentage haste buff given by certain jobs e.g., SAM and BLM;<br>
 $\large S \geq 364$ 						        is the skill/spell speed substat amount; and <br>
 $\large \left \lfloor A \right \rfloor$ is the [floor function](https://mathworld.wolfram.com/FloorFunction.html) applied onto $A$.
 

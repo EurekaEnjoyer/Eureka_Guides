@@ -17,7 +17,7 @@ Exact calculation of GCDs with haste gear is simple.  In order to calculate this
 provided by Allagan Studies.  
 Accounting for haste and plugging in specific level-70 modifiers gives us
 
-$$\LARGE t\left(t_0, n, s\right) = \frac{1}{100} \left \lfloor \frac{t_0 \left(100 - N\right) \left(100 - B\right) \left(1000 - \left \lfloor  \frac{130}{900} \left (  S - 364 \right ) \right \rfloor \right)}{1000000} \right\rfloor$$ 
+$$\LARGE t\left(t_0, n, s\right) = \frac{1}{100} \left \lfloor \left(1000 \\ t_{0}\right)  \left \lfloor\frac{\left(100 - N\right) \left(100 - B\right)}{100} \right\rfloor \frac{  \left(1000 - \left \lfloor  \frac{130}{900} \left (  S - 364 \right ) \right \rfloor \right)}{1000000} \right\rfloor$$ 
 
 where <br>
 
